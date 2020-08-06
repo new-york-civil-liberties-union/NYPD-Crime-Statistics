@@ -1,2 +1,2 @@
 # NYPD-Crime-Statistics
-Archive of weekly NYPD's citywide crime statistics reports
+Archive of weekly NYPD citywide crime statistics reports
